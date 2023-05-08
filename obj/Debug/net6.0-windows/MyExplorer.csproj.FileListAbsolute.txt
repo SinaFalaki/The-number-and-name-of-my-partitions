@@ -1,0 +1,17 @@
+D:\_MY C# PROJECT\MyExplorer\bin\Debug\net6.0-windows\MyExplorer.exe
+D:\_MY C# PROJECT\MyExplorer\bin\Debug\net6.0-windows\MyExplorer.deps.json
+D:\_MY C# PROJECT\MyExplorer\bin\Debug\net6.0-windows\MyExplorer.runtimeconfig.json
+D:\_MY C# PROJECT\MyExplorer\bin\Debug\net6.0-windows\MyExplorer.dll
+D:\_MY C# PROJECT\MyExplorer\bin\Debug\net6.0-windows\MyExplorer.pdb
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.csproj.AssemblyReference.cache
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.csproj.GenerateResource.cache
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.AssemblyInfoInputs.cache
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.AssemblyInfo.cs
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.csproj.CoreCompileInputs.cache
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.dll
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\refint\MyExplorer.dll
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.pdb
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.genruntimeconfig.cache
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\ref\MyExplorer.dll
+D:\_MY C# PROJECT\MyExplorer\obj\Debug\net6.0-windows\MyExplorer.MainForm.resources
